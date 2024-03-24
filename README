@@ -1,0 +1,31 @@
+Tiles Kingdom Website
+This repository contains the source code for the Tiles Kingdom website, a leading provider of high-quality tiles for various projects and applications.
+
+Pages
+index.html: The homepage showcasing Tiles Kingdom's wide range of tile products and services.
+
+about.html: Detailed information about Tiles Kingdom, including our history, mission, and values.
+
+products.html: A comprehensive list of tile products offered by Tiles Kingdom, catering to diverse needs.
+
+contact.html: Contact information for inquiries, support, and collaboration opportunities.
+
+Features
+Responsive Design: The website is designed to be responsive, ensuring optimal viewing experience across devices and screen sizes.
+
+Easy Navigation: User-friendly navigation bar for seamless browsing through different sections of the website.
+
+Modern Styling: The website features a modern design with a consistent color scheme and typography, enhancing user experience.
+
+Technologies Used
+HTML
+CSS
+JavaScript
+Usage
+To view the website locally, clone this repository and open the desired HTML file in a web browser:
+
+bash
+Copy code
+git clone https://github.com/your-username/tiles-kingdom.git
+cd tiles-kingdom
+Feel free to customize the content, images, and styles to fit Tiles Kingdom's branding and industry requirements. Happy coding!
