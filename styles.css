@@ -1,0 +1,60 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: x-large;
+  background: url('image.jpg') center center/cover no-repeat;
+  height: 2000px; /* Adjust height as needed */
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #18dd2c;
+  padding: 10px 0;
+  z-index: 1000;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #1553cf;
+  text-decoration: none;
+  padding: 5px 10px;
+  transition: color 0.2s ease;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+h1, h2 {
+  color: #f2f212;
+}
+
+p {
+  color: #efe30d;
+}
+
+/* Styles for hover effect on nav links */
+nav ul li a:hover {
+  color: #eae311;
+}
